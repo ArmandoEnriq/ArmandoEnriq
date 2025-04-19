@@ -1,16 +1,45 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Armando Enriquez
 
-<!--
-**ArmandoEnriq/ArmandoEnriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy desarrollador apasionado por la tecnología, el aprendizaje continuo y la construcción de soluciones innovadoras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🌱 Actualmente estoy aprendiendo **Microservicios**, **Java** y **Spring Boot**.
+- 💼 Interesado en proyectos de **Desarrollo web**, **Full Stack** y **automatización**.
+- 🎯 Mi objetivo es contribuir a proyectos que tengan un impacto positivo en la sociedad.
+- ⚡ Fun fact: ¡Me encanta el café, los deportes y videojuegos! 🎮☕
+
+---
+
+## 💻 Tecnologías y Herramientas
+- Lenguajes: **JavaScript**, **Python**, **HTML/CSS**.
+- Frameworks: **React**, **Express**, **Tailwildcss**.
+- Herramientas: **Git**, **Docker**, **Postman**, **VS Code**.
+- Bases de datos: **MongoDB**, **MySQL**, **Progress**.
+
+---
+
+## 🌟 Proyectos destacados
+Aquí algunos de mis proyectos favoritos:
+
+- **[Mi Portafolio](https://github.com/ArmandoEnriq/mi-portafolio)**: Un sitio web personal para mostrar mis habilidades y proyectos.
+- **[Tienda Virtual](https://github.com/ArmandoEnriq/tienda-virtual)**: Una aplicación de e-commerce con carrito de compras y pasarela de pagos.
+- **[Backen CRM](https://github.com/ArmandoEnriq/Gestion-Relacion-con-Clientes)**: Backen semi-profesional para gestar una empresa de proyectos.
+
+---
+
+## 📊 Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArmandoEnriq&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoEnriq&layout=compact&theme=radical)
+
+---
+
+## 📫 Conéctate conmigo
+- 📧 [Correo electrónico](armandoenriquezpuga@gmail.com)
+- 💼 [LinkedIn]()
+- 🌐 [Portafolio](https://tu-portafolio.com)
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna idea o proyecto interesante, no dudes en contactarme. 😊
