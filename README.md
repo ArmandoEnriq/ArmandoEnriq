@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador apasionado por la tecnologí
 ---
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente estoy aprendiendo **Microservicios**, **Java** y **Spring Boot**.
+- 🌱 Soy una persona que se adapta rapido a proyectos en diferentes herramientas
 - 💼 Interesado en proyectos de **Desarrollo web**, **Full Stack** y **automatización**.
 - 🎯 Mi objetivo es contribuir a proyectos que tengan un impacto positivo en la sociedad.
 - ⚡ Fun fact: ¡Me encanta el café, los deportes y videojuegos! 🎮☕
@@ -13,8 +13,8 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador apasionado por la tecnologí
 ---
 
 ## 💻 Tecnologías y Herramientas
-- Lenguajes: **JavaScript**, **Python**, **HTML/CSS**.
-- Frameworks: **React**, **Express**, **Tailwildcss**.
+- Lenguajes: **JavaScript**, **Python**, **HTML/CSS**, **TypeScript**.
+- Frameworks: **React**, **Express**, **Tailwildcss**, **Nest**, **Django**.
 - Herramientas: **Git**, **Docker**, **Postman**, **VS Code**.
 - Bases de datos: **MongoDB**, **MySQL**, **Progress**.
 
@@ -37,8 +37,8 @@ Aquí algunos de mis proyectos favoritos:
 
 ## 📫 Conéctate conmigo
 - 📧 [Correo electrónico](armandoenriquezpuga@gmail.com)
-- 💼 [LinkedIn]()
-- 🌐 [Portafolio](https://tu-portafolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/armandoenriquezp/)
+- 🌐 [Portafolio](https://cvfront-mu.vercel.app/)
 
 ---
 
